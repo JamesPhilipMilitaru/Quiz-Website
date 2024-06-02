@@ -1,0 +1,15 @@
+.background.container{
+    background-image:url(https://media.istockphoto.com/id/1348235111/photo/innovation-and-new-ideas-lightbulb-concept-with-question-mark.jpg?b=1&s=612x612&w=0&k=20&c=pfrPSxJ3UGSRFIOTsQMpmTIPiMfMvUMEqgokHOObWqc=.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+footer{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+label{
+    text-align: center;
+}
